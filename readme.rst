@@ -1,4 +1,10 @@
 ###################
+What is SISHU
+###################
+
+SISHU is an Management Information System used to manage learning activites in School of Hajj and Umrah Baitullah Rubaiya. this system already use on url : http://shubaitullah.com/
+
+###################
 What is CodeIgniter
 ###################
 
